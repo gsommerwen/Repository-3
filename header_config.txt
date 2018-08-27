@@ -1,0 +1,4 @@
+# gehört ins setup
+config {
+  baseURL = https://www.nameDomain.tld/
+}
