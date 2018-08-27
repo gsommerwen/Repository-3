@@ -1,4 +1,5 @@
 # gehört ins setup
 config {
   baseURL = https://www.nameDomain.tld/
+  locale_all = de_DE.utf8@euro
 }
