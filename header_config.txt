@@ -4,5 +4,5 @@ config {
   locale_all = de_DE.utf8@euro
   temp.date = HTML
   temp.date.value.data = date : U
-  temp.date.value.strftime = 
+  temp.date.value.strftime = %A %e. %B %Y
 }
