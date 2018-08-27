@@ -2,7 +2,7 @@
 config {
   baseURL = https://www.nameDomain.tld/
   locale_all = de_DE.utf8@euro
-  temp.date = HTML
+  temp.date = TEXT
   temp.date.value.data = date : U
   temp.date.value.strftime = %A %e. %B %Y
 }
