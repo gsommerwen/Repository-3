@@ -1,0 +1,7 @@
+page.footerData.10 = TEXT
+page.footerData.10.value (
+  # zum Beispiel:
+  # JavaScriptZeile vor dem schliessenden "</body>" einbinden
+  # z.B. CookieChoices
+  # oder Partner-Script-Zeile by SOMMER
+)
